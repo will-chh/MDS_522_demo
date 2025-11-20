@@ -6,3 +6,6 @@ DSCI 522 Lecture 1, in class exercise
   -`git switch -c <name>`: create <name> and switch to it in one go, from HEAD
 
 - when you push the branch to github, it will automatically update the PR
+
+Lecture 2 Edits: 
+talk about git fetch --prune
